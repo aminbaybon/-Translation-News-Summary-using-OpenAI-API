@@ -1,1 +1,1 @@
-# -Translation-News-Summary-using-OpenAI-API
+my Deep Learning homewroks. spring 2022. IUST
